@@ -31,7 +31,3 @@ Run:
 ```bash
 java -cp src GuessTheNumber
 ```
-
-## Author
-
-Tejas Gautam
