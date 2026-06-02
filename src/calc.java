@@ -40,6 +40,7 @@ public class calc {
                 System.out.println("invalid input");
                 break;
         }
+        sc.close();
 
 
 
