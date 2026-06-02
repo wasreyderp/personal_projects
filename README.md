@@ -1,33 +1,7 @@
-# Guess The Number
+# Java Learning
 
-A simple Java console game where the player tries to guess a randomly generated number between 1 and 100.
+A collection of Java practice programs and mini-projects created while learning core Java concepts.
 
-## Features
+This repository includes hands-on exercises covering user input, conditional statements, loops, switch cases, methods, and basic problem-solving through console-based applications.
 
-* Random number generation
-* User input using Scanner
-* Higher/lower hints
-* Option to quit the game
-* Loop until correct answer
-
-## Concepts Used
-
-* Variables
-* Loops
-* Conditional Statements
-* Scanner
-* Random Numbers
-
-## How To Run
-
-Compile:
-
-```bash
-javac src/GuessTheNumber.java
-```
-
-Run:
-
-```bash
-java -cp src GuessTheNumber
-```
+More projects will be added as learning progresses.
